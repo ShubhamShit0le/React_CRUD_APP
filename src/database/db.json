@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "piyush rele",
+      "username": "piyush",
+      "email": "piyu123@gmail.com",
+      "phone": "8754521252",
+      "id": 2
+    },
+    {
+      "name": "om rai",
+      "username": "om",
+      "email": "om@gmail.com",
+      "phone": "785462315",
+      "id": 3
+    },
+    {
+      "name": "shubham ",
+      "username": "shubs____",
+      "email": "shubhamshitole2472@gmail.com",
+      "phone": "8975460802",
+      "id": 4
+    },
+    {
+      "name": "priya Suryavanshi",
+      "username": "admin",
+      "email": "shubhamshitole099@gmail.com",
+      "phone": "4562255",
+      "id": 5
+    }
+  ]
+}
