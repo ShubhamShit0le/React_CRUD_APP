@@ -3,6 +3,7 @@ import { NavLink } from "react-router-dom";
 import { Button, Typography } from "@mui/material";
 
 const PageNotFound = (props) => {
+  props.funcNav(true);
   return (
     <Typography variant=" h2">
       
